@@ -12,7 +12,7 @@
 
 <!-- endhide -->
 
-Forms are so important in the world of HTML, CSS and Javascript that I decided to give them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn the following:
+Forms are so important in the world of HTML, CSS and Javascript that I decided to give them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises, you will learn the following:
 
 1. How to use text inputs, text areas, date inputs and numeric inputs.
 
@@ -39,13 +39,13 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 
 You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/html-forms-tutorial-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git).
 
-> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
+> Once you have VSCode open, the LearnPack exercises should start automatically. If exercises don't run automatically, you can try typing on your terminal: `$ learnpack start`
 
 ## Local installation
 
 Clone the repository in your local environment and follow the steps below:
 
-1. Install LearnPack, the package manager for learning tutorials and the HTML compiler plugin for LearnPack, make sure you also have node.js 14+:
+1. Install LearnPack, the package manager for learning tutorials and the HTML compiler plugin for LearnPack. Make sure you also have node.js 14+:
 
 ```bash
 $ npm i @learnpack/learnpack -g
@@ -73,7 +73,7 @@ Each exercise is a small React application containing the following files:
 
 1. **index.html:** represents the entry file for the entire exercise.
 2. **README.md:** contains exercise instructions.
-3. **test.js:** you don't have to open this file, it contains the testing script for the exercise.
+3. **test.js:** You don't have to open this file; it contains the testing script for the exercise.
 
 > Note: The exercises have automatic grading, but it's very rigid and strict, my recommendation is to not take the tests too serious and use them only as a suggestion, or you may get frustrated.
 
